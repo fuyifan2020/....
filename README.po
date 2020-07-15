@@ -37,8 +37,6 @@
 #   checkout                         |  检出
 #   checksum                         |  校验，校验和
 #   cherry-picking                   |  拣选
-#   clean                            |  干净（的工作区）
-#   clone                            |  克隆
 #   commit                           |  提交
 #   commit message                   |  提交说明
 #   commit object                    |  提交对象
@@ -48,6 +46,8 @@
 #   cover letter                     |  附函
 #   DAG                              |  有向无环图
 #   dangling object                  |  悬空对象
+#   clean                            |  干净（的工作区）
+#   clone                            |  克隆
 #   detached HEAD                    |  分离头指针
 #   directory                        |  目录
 #   dirty                            |  脏（的工作区）
